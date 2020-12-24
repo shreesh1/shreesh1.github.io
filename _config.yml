@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   and a Hobbiest Malware Analyst
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 1
+paginate: 4
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
