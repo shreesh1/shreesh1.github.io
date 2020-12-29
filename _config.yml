@@ -30,6 +30,9 @@ dash:
     - url: https://github.com/shreesh1
       icon: github-square
       color: purple
+    - url: karma#6602
+      icon: discord-square
+      color: teal
 
   show_author: true
 
