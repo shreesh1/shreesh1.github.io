@@ -4,6 +4,7 @@ email: sroliwal@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   I am a Student / Reverse Engineer and CTF Player Leading IIT(BHU)CyberSec
   and a Hobbiest Malware Analyst
+  Contact Discord karma#6602
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 4
