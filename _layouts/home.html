@@ -3,6 +3,7 @@ layout: default
 ---
 {% unless site.dash.show_author == false %}
   {% include author.html %}
+  <a href="/myresume.pdf">Resume</a>
 {% endunless %}
 {% assign posts_count = paginator.posts | size %}
 {% if posts_count > 0 %}
