@@ -2,9 +2,9 @@ title: Shreesh Roliwal
 author: GitHub User
 email: sroliwal@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  I am a Student / Reverse Engineer and CTF Player Leading IIT(BHU)CyberSec
+  I am a Student / Reverse Engineer and CTF Player
   and a Hobbiest Malware Analyst
-  Contact Discord karma#8080
+  Contact Discord karmaX#1165
 show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 4
@@ -25,15 +25,15 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/pwnninja
-      icon: twitter-square
+    - url: https://twitter.com/karmaX8080
+      icon: twitter
       color: cyan
     - url: https://github.com/shreesh1
-      icon: github-square
+      icon: github
       color: purple
-    - url: karma#6602
-      icon: discord-square
-      color: teal
+    - url: https://www.linkedin.com/in/shreesh-roliwal-2677ba183/
+      color: green
+      icon: linkedin-in
 
   show_author: true
 

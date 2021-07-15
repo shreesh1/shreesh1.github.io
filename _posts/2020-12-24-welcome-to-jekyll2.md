@@ -29,10 +29,9 @@ However, these entries should not be styled:
 
 Jekyll also offers powerful support for code snippets:
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
+```python
+def print_hi(name):
+  print(f"Hello {name}")
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
